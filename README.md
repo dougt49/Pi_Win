@@ -1,2 +1,3 @@
 # Pi_Win
-Windows on Raspberry Pu
+Windows on Raspberry Pi
+Tesing environment
